@@ -68,7 +68,7 @@ fanoron-telo-ia/
 
 ### Lien vers la version hébergée
 
-_[à compléter — URL de déploiement si disponible]_
+_[https://fanoron-telo.onrender.com/]_
 
 ---
 
