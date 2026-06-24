@@ -10,7 +10,7 @@
 - Site officiel : <https://www.ispm-edu.com>
 - Cours : Algorithmique Avancée — Travaux Pratiques
 - Thème : Fanoron-telo avec IA
-- Nom du groupe de projet : Groupe Fanoron-telo
+- Nom du groupe de projet : CODE_&_CHILL
 
 | Nom complet | Numéro d'étudiant | Classe | Rôle pour ce hackathon |
 |-------------|-------------------|--------|------------------------|
